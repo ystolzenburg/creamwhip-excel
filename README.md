@@ -2,14 +2,6 @@
 
 This script supports downloading the contents of a website that rhymes with creamwhip(.com) and scrapes a popular critics website to put the data combined into an excel spreadsheet.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Installation
 
 Install the required modules with
